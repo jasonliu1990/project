@@ -1,4 +1,4 @@
 # project
 * docker
-edx final project: predicting evictions<br>
-santander customer transaction prediction: kaggle competitions
+* edx final project: predicting evictions
+* santander customer transaction prediction: kaggle competitions
