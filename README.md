@@ -1,6 +1,8 @@
 # project
 * NLP: crawler practice & tf-idf function
 *
+* computer vision: classify four types of forms
+*
 * docker
 *
 * edx final project: predicting evictions
