@@ -1,5 +1,5 @@
 # project
-* NLP: crawler practice & tf-idf function
+* NLP: crawler practice & tf-idf function & The article recommends using word2vec
 *
 * computer vision: classify four types of forms
 *
